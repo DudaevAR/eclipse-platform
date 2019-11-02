@@ -42,12 +42,12 @@
     </profile>
   </profiles>
   <properties>
-    <build-name>I20170822-2000</build-name>
+    <build-name>I20191102-0000</build-name>
     <platform-file>eclipse-platform-${build-name}-${classifier}.${ext}</platform-file>
     <platform-url>http://download.eclipse.org</platform-url>
     <platform-path>eclipse/downloads/drops4/${build-name}/eclipse-platform-${build-name}-${classifier}.${ext}</platform-path>
-    <rcptt-maven-version>2.3.0-SNAPSHOT</rcptt-maven-version>
-    <rcptt-version>2.3.0-SNAPSHOT</rcptt-version>
+    <rcptt-maven-version>2.5.0-SNAPSHOT</rcptt-maven-version>
+    <rcptt-version>2.5.0-SNAPSHOT</rcptt-version>
   </properties>
   <pluginRepositories>
     <pluginRepository>
